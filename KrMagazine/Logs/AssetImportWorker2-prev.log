@@ -1,0 +1,398 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.32f1 (b2e806cf271c) revision 11724806'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ru' Physical Memory: 7514 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC#\6000.0.32f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/gzert/OneDrive/Документы/Unity/KrMagazine
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+65338
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/gzert/OneDrive/Документы/Unity/KrMagazine
+C:/Users/gzert/OneDrive/Документы/Unity/KrMagazine
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [16924]  Target information:
+
+Player connection [16924]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 328930945 [EditorId] 328930945 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-N8NJD8KJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16924]  * "[IP] 192.168.56.2 [Port] 0 [Flags] 2 [Guid] 328930945 [EditorId] 328930945 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-N8NJD8KJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16924]  * "[IP] 172.25.224.1 [Port] 0 [Flags] 2 [Guid] 328930945 [EditorId] 328930945 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-N8NJD8KJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16924]  * "[IP] 172.20.160.1 [Port] 0 [Flags] 2 [Guid] 328930945 [EditorId] 328930945 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-N8NJD8KJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16924]  * "[IP] 172.17.32.1 [Port] 0 [Flags] 2 [Guid] 328930945 [EditorId] 328930945 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-N8NJD8KJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16924]  * "[IP] 172.18.240.1 [Port] 0 [Flags] 2 [Guid] 328930945 [EditorId] 328930945 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-N8NJD8KJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16924]  * "[IP] 172.17.249.62 [Port] 0 [Flags] 2 [Guid] 328930945 [EditorId] 328930945 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-N8NJD8KJ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [16924] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [16924] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 2.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.32f1 (b2e806cf271c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Microsoft Visual Studio/2022/Community/VC#/6000.0.32f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/gzert/OneDrive/Документы/Unity/KrMagazine/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f9d)
+    Vendor:   NVIDIA
+    VRAM:     3935 MB
+    Driver:   32.0.15.7602
+Initialize mono
+Mono path[0] = 'C:/Program Files/Microsoft Visual Studio/2022/Community/VC#/6000.0.32f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Microsoft Visual Studio/2022/Community/VC#/6000.0.32f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Microsoft Visual Studio/2022/Community/VC#/6000.0.32f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56240
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Microsoft Visual Studio/2022/Community/VC#/6000.0.32f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Microsoft Visual Studio/2022/Community/VC#/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004229 seconds.
+- Loaded All Assemblies, in  0.505 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.393 seconds
+Domain Reload Profiling: 895ms
+	BeginReloadAssembly (166ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (217ms)
+		LoadAssemblies (162ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (213ms)
+			TypeCache.Refresh (211ms)
+				TypeCache.ScanAssembly (192ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (393ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (349ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (34ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (62ms)
+			ProcessInitializeOnLoadAttributes (186ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.894 seconds
+Refreshing native plugins compatible for Editor in 1.13 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.697 seconds
+Domain Reload Profiling: 1587ms
+	BeginReloadAssembly (219ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (566ms)
+		LoadAssemblies (447ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (254ms)
+			TypeCache.Refresh (199ms)
+				TypeCache.ScanAssembly (181ms)
+			BuildScriptInfoCaches (46ms)
+			ResolveRequiredComponents (5ms)
+	FinalizeReload (698ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (559ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (97ms)
+			ProcessInitializeOnLoadAttributes (417ms)
+			ProcessInitializeOnLoadMethodAttributes (30ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3707 unused Assets / (1.4 MB). Loaded Objects now: 4193.
+Memory consumption went from 82.7 MB to 81.3 MB.
+Total: 9.351400 ms (FindLiveObjects: 0.762000 ms CreateObjectMapping: 0.634200 ms MarkObjects: 6.214400 ms  DeleteObjects: 1.737000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 525810.070580 seconds.
+  path: Assets/Materials/cash register/TextureSet1_Base_color.bmp
+  artifactKey: Guid(e68d6b5841af9fa4b85a8f214176f0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/cash register/TextureSet1_Base_color.bmp using Guid(e68d6b5841af9fa4b85a8f214176f0bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '01f859bb9a9b949915afd176161e0ae5') in 0.1203535 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.007904 seconds.
+  path: Assets/Materials/Shelf/TextureSet4_Base_color.bmp
+  artifactKey: Guid(53eac131f16c0d04095960b26c8026d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shelf/TextureSet4_Base_color.bmp using Guid(53eac131f16c0d04095960b26c8026d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c859dfe2d189221d5d08339b2d331cbc') in 0.0262835 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Materials/Shelf/TextureSet4_Roughness.bmp
+  artifactKey: Guid(b059e24c82808f84cbee2e1e971e679b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shelf/TextureSet4_Roughness.bmp using Guid(b059e24c82808f84cbee2e1e971e679b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff1dd30fe5834419a995f929bf0edb1c') in 0.0241492 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Materials/Shelf/TextureSet4_Normal_OpenGL.bmp
+  artifactKey: Guid(48b963a70d7686444ae197d36ca968b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shelf/TextureSet4_Normal_OpenGL.bmp using Guid(48b963a70d7686444ae197d36ca968b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aed455290199dff2d6a95ff83b853e72') in 0.0214614 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.236431 seconds.
+  path: Assets/Materials/Products/TextureSet3_Base_color.bmp
+  artifactKey: Guid(cbbc65a4296c2944fb491cbd6a2fc042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Products/TextureSet3_Base_color.bmp using Guid(cbbc65a4296c2944fb491cbd6a2fc042) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b98f94ea90f7990b5ffeb20169c43356') in 0.0232844 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Materials/Products/TextureSet3_Mixed_AO.bmp
+  artifactKey: Guid(9ed93b9fe0fc5e04494112d41c160d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Products/TextureSet3_Mixed_AO.bmp using Guid(9ed93b9fe0fc5e04494112d41c160d19) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '47b55f7f6ea6b286230f4c5c4208dd99') in 0.0218457 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Materials/Products/TextureSet3_Normal_OpenGL.bmp
+  artifactKey: Guid(ed26e6c163ae4f946862854d29aaf6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Products/TextureSet3_Normal_OpenGL.bmp using Guid(ed26e6c163ae4f946862854d29aaf6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2f7dd927a8b7d25c565c77c2f6c91bee') in 0.0242119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.501796 seconds.
+  path: Assets/Materials/Shelf/TextureSet5_Base_color.bmp
+  artifactKey: Guid(53eac131f16c0d04095960b26c8026d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shelf/TextureSet5_Base_color.bmp using Guid(53eac131f16c0d04095960b26c8026d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '11ed230e88703baf115ef801dca183a7') in 0.0217002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.302480 seconds.
+  path: Assets/Materials/Shelf/TextureSet5_Height.bmp
+  artifactKey: Guid(3138c07a9fa35c741ac953b57742a11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shelf/TextureSet5_Height.bmp using Guid(3138c07a9fa35c741ac953b57742a11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '052b2358dd85dfd0efa8ebc8e662ca92') in 0.0100564 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.617165 seconds.
+  path: Assets/Materials/Chair/TextureSet4_Base_color.bmp
+  artifactKey: Guid(e067ad227a801a144bd479ff1fdb6835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Chair/TextureSet4_Base_color.bmp using Guid(e067ad227a801a144bd479ff1fdb6835) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4383ed82fd1c23d25f8e51f1bcefe52c') in 0.0265196 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Materials/Chair/TextureSet4_Normal_OpenGL.bmp
+  artifactKey: Guid(6ddcfeb2ebe14fb4a832c34c0637ca86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Chair/TextureSet4_Normal_OpenGL.bmp using Guid(6ddcfeb2ebe14fb4a832c34c0637ca86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5e9edec5f0127d9d9dfcc9537662bd69') in 0.0197306 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Materials/Chair/TextureSet4_Normal.bmp
+  artifactKey: Guid(6a9d535e41950db4db400a10c7173bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Chair/TextureSet4_Normal.bmp using Guid(6a9d535e41950db4db400a10c7173bb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd3a232b73ae18c0cbcd6d22685d32774') in 0.0188547 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1594.118426 seconds.
+  path: Assets/Materials/cash register/TextureSet1_Normal_OpenGL.bmp
+  artifactKey: Guid(8378ebe08578cf74c944f61e0c3548c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/cash register/TextureSet1_Normal_OpenGL.bmp using Guid(8378ebe08578cf74c944f61e0c3548c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fde6eedc90d543d99cecbfc4a283da46') in 0.0765489 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 149.504805 seconds.
+  path: Assets/Materials/png/TextureSet2_Normal_OpenGL.bmp
+  artifactKey: Guid(0c58f3444ff08de4b99429801aa6797b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/png/TextureSet2_Normal_OpenGL.bmp using Guid(0c58f3444ff08de4b99429801aa6797b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc561bba89e0c1e9836f6f1d4f81b7a7') in 0.0285823 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.337331 seconds.
+  path: Assets/Materials/Chair/TextureSet4_Normal_OpenGL.bmp
+  artifactKey: Guid(6ddcfeb2ebe14fb4a832c34c0637ca86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Chair/TextureSet4_Normal_OpenGL.bmp using Guid(6ddcfeb2ebe14fb4a832c34c0637ca86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8d884a4335c86e658a0d03387b2ded19') in 0.0266597 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.562663 seconds.
+  path: Assets/Materials/Shelf/TextureSet5_Metallic.bmp
+  artifactKey: Guid(c214db8d789c8144196e7afa66ef5de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shelf/TextureSet5_Metallic.bmp using Guid(c214db8d789c8144196e7afa66ef5de2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fd2a59359a5f9445e6cb2465d7df95ba') in 0.0216685 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.329294 seconds.
+  path: Assets/Materials/Shelf/TextureSet5_Mixed_AO.bmp
+  artifactKey: Guid(7ea38f331b537bf46a74c98e2cc8b2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shelf/TextureSet5_Mixed_AO.bmp using Guid(7ea38f331b537bf46a74c98e2cc8b2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2e5dd104556bf486150f6bb14f856591') in 0.0111992 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.621866 seconds.
+  path: Assets/Materials/Shelf/TextureSet5_Normal.bmp
+  artifactKey: Guid(dc57fb6e3101a9347b627aa6c74ac00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shelf/TextureSet5_Normal.bmp using Guid(dc57fb6e3101a9347b627aa6c74ac00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '961e4c023475c0ce1b1160e292c883d1') in 0.012686 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.165973 seconds.
+  path: Assets/Materials/Shelf/TextureSet5_Normal_OpenGL.bmp
+  artifactKey: Guid(48b963a70d7686444ae197d36ca968b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shelf/TextureSet5_Normal_OpenGL.bmp using Guid(48b963a70d7686444ae197d36ca968b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd8b6529d2fe2764bc030ebf527096dd') in 0.0118425 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.331560 seconds.
+  path: Assets/Materials/Shelf/TextureSet5_Roughness.bmp
+  artifactKey: Guid(b059e24c82808f84cbee2e1e971e679b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shelf/TextureSet5_Roughness.bmp using Guid(b059e24c82808f84cbee2e1e971e679b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '031d6b8005abd0b288a21f0d10f31193') in 0.0208989 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 38.326310 seconds.
+  path: Assets/Materials/Shelf/TextureSet5_Normal_OpenGL.bmp
+  artifactKey: Guid(48b963a70d7686444ae197d36ca968b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Shelf/TextureSet5_Normal_OpenGL.bmp using Guid(48b963a70d7686444ae197d36ca968b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0b1826951f03838b3aa5a487d79a1338') in 0.021143 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.116660 seconds.
+  path: Assets/Materials/Products/TextureSet3_Normal_OpenGL.bmp
+  artifactKey: Guid(ed26e6c163ae4f946862854d29aaf6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Products/TextureSet3_Normal_OpenGL.bmp using Guid(ed26e6c163ae4f946862854d29aaf6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '39ba076c2fb3be36a072602131e65791') in 0.0244517 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 215.002108 seconds.
+  path: Assets/Materials/cash register/New Material.mat
+  artifactKey: Guid(26e73925bea4bfa4e8a97a9e74c4a017) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/cash register/New Material.mat using Guid(26e73925bea4bfa4e8a97a9e74c4a017) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b673ea8c6a21b980ec192506ffb2840c') in 0.295829 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.388727 seconds.
+  path: Assets/Materials/png/New Material 1.mat
+  artifactKey: Guid(d4b253e5ad72a5c4d9816d6926b4bdce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/png/New Material 1.mat using Guid(d4b253e5ad72a5c4d9816d6926b4bdce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0d062a3c75a7432fd0f856c5d51b424') in 0.059963 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.712529 seconds.
+  path: Assets/Materials/Chair/New Material.mat
+  artifactKey: Guid(9b66c31f00e815c43a685aafc10b335f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Chair/New Material.mat using Guid(9b66c31f00e815c43a685aafc10b335f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6479819afd1e5cad593d10a42328abdc') in 0.0349924 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+

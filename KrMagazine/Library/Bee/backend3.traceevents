@@ -1,0 +1,519 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1747914220367526, "dur":43154, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747914220410687, "dur":121, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747914220410839, "dur":442, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747914220411448, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1747914220411935, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1747914220412311, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1747914220412415, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1747914220412642, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1747914220412742, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1747914220412862, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1747914220413078, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1747914220413184, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1747914220413703, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1747914220414148, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1747914220414393, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1747914220411304, "dur":3478, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747914220414783, "dur":1233367, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747914221648152, "dur":424, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747914221648576, "dur":58, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747914221648791, "dur":2017, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1747914220412211, "dur":2677, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747914220414893, "dur":1925, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747914220416819, "dur":1693, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747914220418513, "dur":1469, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747914220419982, "dur":6829, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747914220426819, "dur":198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1747914220427019, "dur":231, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747914220427256, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1747914220427338, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747914220427432, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914220427497, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747914220427589, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747914220427702, "dur":8527, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747914220436401, "dur":316437, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914220436234, "dur":316607, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914220752852, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747914220753056, "dur":2142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914220755263, "dur":93107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914220755206, "dur":93167, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914220848414, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914220850027, "dur":335268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914220849971, "dur":335327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221185314, "dur":287, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747914221185616, "dur":2041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221187844, "dur":61118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221187663, "dur":61301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221249008, "dur":1783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221250848, "dur":56236, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221250798, "dur":56290, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221307192, "dur":2933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221310180, "dur":150249, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221310131, "dur":150301, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221460477, "dur":2549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221463095, "dur":129136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221463032, "dur":129202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221592275, "dur":1438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747914221593716, "dur":54444, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747914220411987, "dur":2817, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747914220418417, "dur":61, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Assets/StreamingAssets" }}
+,{ "pid":12345, "tid":2, "ts":1747914220418478, "dur":1216, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Microsoft Visual Studio/2022/Community/VC#/6000.0.32f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":2, "ts":1747914220419695, "dur":5376, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Microsoft Visual Studio/2022/Community/VC#/6000.0.32f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":2, "ts":1747914220425071, "dur":85, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Microsoft Visual Studio/2022/Community/VC#/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" }}
+,{ "pid":12345, "tid":2, "ts":1747914220425156, "dur":1162, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Microsoft Visual Studio/2022/Community/VC#/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":2, "ts":1747914220426319, "dur":61, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Microsoft Visual Studio/2022/Community/VC#/6000.0.32f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources" }}
+,{ "pid":12345, "tid":2, "ts":1747914220426380, "dur":231, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Microsoft Visual Studio/2022/Community/VC#/6000.0.32f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":2, "ts":1747914220426611, "dur":110, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":2, "ts":1747914220414809, "dur":11990, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747914220426818, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/5512000525897723339.rsp" }}
+,{ "pid":12345, "tid":2, "ts":1747914220426897, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747914220426968, "dur":1494, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/gzert/OneDrive//Unity/KrMagazine/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":2, "ts":1747914220428463, "dur":2359, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747914220436227, "dur":68414, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914220436181, "dur":68463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914220504704, "dur":1587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914220506347, "dur":139472, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914220506298, "dur":139524, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914220645835, "dur":76, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747914220645922, "dur":2056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914220648038, "dur":300547, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914220647986, "dur":300602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914220948631, "dur":1703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914220950484, "dur":76599, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914220950340, "dur":76747, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221027127, "dur":2924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221030199, "dur":61175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221030056, "dur":61320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221091413, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221092950, "dur":196034, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221092904, "dur":196082, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221289040, "dur":200, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747914221289252, "dur":3355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221292666, "dur":164222, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221292613, "dur":164278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221456935, "dur":1804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221458801, "dur":62208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221458747, "dur":62275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221521068, "dur":4885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221526351, "dur":54928, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221525961, "dur":55321, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221581328, "dur":1680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747914221583013, "dur":65215, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914220412066, "dur":2749, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914220414827, "dur":1582, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914220416410, "dur":1385, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914220417796, "dur":1539, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914220419335, "dur":932, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914220420267, "dur":6606, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914220426883, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1747914220427027, "dur":325, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914220427359, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1747914220427427, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914220427527, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914220427626, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914220427723, "dur":8459, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914220436354, "dur":59354, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220436184, "dur":59527, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220497062, "dur":3365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220500487, "dur":98711, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220500436, "dur":98765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220599239, "dur":1695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220600990, "dur":67451, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220600940, "dur":67504, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220668490, "dur":1818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220670374, "dur":67653, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220670314, "dur":67718, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220738078, "dur":1714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220739943, "dur":70221, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220739798, "dur":70370, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220810210, "dur":2459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220812723, "dur":167194, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220812675, "dur":167245, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220979957, "dur":2003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220982131, "dur":100629, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914220981968, "dur":100795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221082848, "dur":1993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221084902, "dur":62050, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221084848, "dur":62107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221146994, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221148630, "dur":73259, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221148583, "dur":73310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221221906, "dur":77, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747914221221994, "dur":2693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221224759, "dur":212172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221224709, "dur":212226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221436985, "dur":2005, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221439173, "dur":69328, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221438998, "dur":69506, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221508546, "dur":1741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221510357, "dur":126393, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221510294, "dur":126459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221636793, "dur":1376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747914221638173, "dur":10001, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747914220412426, "dur":2516, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747914220414951, "dur":1855, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747914220416807, "dur":1523, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747914220418331, "dur":1544, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747914220419876, "dur":6943, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747914220426823, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1747914220426967, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747914220427068, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1747914220427186, "dur":159, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747914220427356, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1747914220427460, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747914220427613, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747914220427762, "dur":8433, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747914220436388, "dur":102768, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220436199, "dur":102960, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220539209, "dur":1720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220540975, "dur":109397, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220540933, "dur":109443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220650422, "dur":2242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220652724, "dur":62348, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220652672, "dur":62403, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220715117, "dur":2228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220717530, "dur":123994, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220717362, "dur":124166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220841569, "dur":2692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220844417, "dur":58661, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220844268, "dur":58813, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220903121, "dur":1479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220904964, "dur":82831, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220904607, "dur":83191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220987837, "dur":2035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220989999, "dur":96496, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914220989879, "dur":96620, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221086545, "dur":1481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221088193, "dur":106121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221088032, "dur":106285, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221194361, "dur":1783, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221196249, "dur":176833, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221196150, "dur":176935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221373128, "dur":2638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221375834, "dur":67142, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221375778, "dur":67201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221443059, "dur":2011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221445137, "dur":63635, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221445078, "dur":63696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221508800, "dur":1883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221510733, "dur":59733, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221510687, "dur":59782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221570512, "dur":4330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747914221574847, "dur":73344, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747914220412184, "dur":2691, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747914220414882, "dur":1941, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747914220416824, "dur":1688, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747914220418512, "dur":1473, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747914220419985, "dur":6853, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747914220426839, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1747914220426953, "dur":197, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747914220427159, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1747914220427269, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747914220427418, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine.exe" }}
+,{ "pid":12345, "tid":5, "ts":1747914220427550, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747914220427717, "dur":8521, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747914220436371, "dur":247700, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914220436248, "dur":247826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914220684159, "dur":2772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914220686990, "dur":66781, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914220686940, "dur":66834, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914220756488, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747914220753812, "dur":2806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914220756740, "dur":121218, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914220756623, "dur":121337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914220878002, "dur":1406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914220879593, "dur":150929, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914220879415, "dur":151110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221030559, "dur":2465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221033241, "dur":66066, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221033030, "dur":66281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221099352, "dur":1621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221101026, "dur":69149, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221100979, "dur":69199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221170217, "dur":2228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221172621, "dur":117010, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221172453, "dur":117180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221289667, "dur":1504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221291224, "dur":354069, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221291178, "dur":354117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747914221645346, "dur":2747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220412120, "dur":2731, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747914220414859, "dur":1736, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747914220416596, "dur":1637, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747914220418234, "dur":1364, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747914220419599, "dur":7312, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747914220426912, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1747914220427062, "dur":316, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747914220427387, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220427500, "dur":180, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747914220427697, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747914220427861, "dur":8344, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747914220436401, "dur":133414, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220436207, "dur":133611, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220569879, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220571590, "dur":58395, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220571531, "dur":58457, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220630057, "dur":1403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220631523, "dur":179147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220631469, "dur":179203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220810704, "dur":2514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220813270, "dur":96788, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220813224, "dur":96837, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220910094, "dur":1500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220911779, "dur":136794, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914220911602, "dur":136974, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221048619, "dur":1923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221050704, "dur":99133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221050548, "dur":99292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221149884, "dur":1433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221151372, "dur":85460, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221151324, "dur":85512, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221236883, "dur":1658, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221238730, "dur":123445, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221238549, "dur":123629, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221362191, "dur":88, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747914221364050, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747914221362290, "dur":2006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221364507, "dur":163567, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221364309, "dur":163768, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221528120, "dur":4141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747914221532268, "dur":115884, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914220412272, "dur":2627, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914220414904, "dur":1658, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914220416562, "dur":1498, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914220418060, "dur":1455, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914220419516, "dur":74, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914220419590, "dur":7233, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914220426826, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1747914220427015, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914220427178, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1747914220427359, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914220427479, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914220427576, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914220427695, "dur":8505, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914220436429, "dur":217886, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914220436203, "dur":218115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914220654390, "dur":3112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914220657563, "dur":60000, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914220657510, "dur":60056, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914220717601, "dur":1693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914220719371, "dur":371075, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914220719302, "dur":371147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221090497, "dur":1855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221092421, "dur":68553, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221092361, "dur":68616, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221161019, "dur":3143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221164221, "dur":178054, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221164169, "dur":178109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221344477, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747914221342349, "dur":2209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221344847, "dur":65887, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221344565, "dur":66172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221410803, "dur":1776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221412955, "dur":2571, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221412583, "dur":2946, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221415568, "dur":1482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221417108, "dur":201640, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221417055, "dur":201695, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221618782, "dur":1901, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747914221620690, "dur":27458, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747914220412332, "dur":2584, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747914220414923, "dur":1663, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747914220416587, "dur":1474, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747914220418062, "dur":1475, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747914220419537, "dur":7271, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747914220426830, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747914220426943, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747914220427007, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1747914220427186, "dur":228, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747914220427421, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1747914220427554, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747914220427719, "dur":8472, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747914220436369, "dur":59389, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220436197, "dur":59564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220497132, "dur":3810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220501005, "dur":234727, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220500948, "dur":234788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220735749, "dur":75, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747914220735835, "dur":2331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220738310, "dur":64303, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220738172, "dur":64443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220802650, "dur":1983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220804778, "dur":168625, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220804640, "dur":168765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220973446, "dur":1801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220975301, "dur":306009, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914220975252, "dur":306061, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914221281356, "dur":3539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914221284954, "dur":59095, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914221284901, "dur":59151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914221344094, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914221345900, "dur":140830, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914221345746, "dur":140988, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914221486778, "dur":1931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914221488775, "dur":63505, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914221488714, "dur":63569, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914221552338, "dur":1818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747914221554161, "dur":93996, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1747914220412486, "dur":2480, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1747914220414970, "dur":1613, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1747914220416584, "dur":1466, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1747914220418050, "dur":1565, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1747914220419615, "dur":7280, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1747914220426905, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1747914220427051, "dur":265, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1747914220427321, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1747914220427394, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1747914220427474, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":9, "ts":1747914220427534, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1747914220427658, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1747914220427753, "dur":8462, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1747914220436422, "dur":289340, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914220436218, "dur":289546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914220725867, "dur":1984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914220727906, "dur":192872, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914220727860, "dur":192921, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914220920826, "dur":2139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914220923139, "dur":103978, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914220922973, "dur":104146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914221027141, "dur":2417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914221029615, "dur":355956, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914221029564, "dur":356010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914221385587, "dur":197, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1747914221385794, "dur":4308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914221390160, "dur":98841, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914221390110, "dur":98893, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914221489039, "dur":2055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914221491152, "dur":79632, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914221491101, "dur":79690, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914221570856, "dur":4226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1747914221575086, "dur":73131, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914220412593, "dur":2379, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914220414975, "dur":1719, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914220416694, "dur":1521, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914220418216, "dur":1384, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914220419600, "dur":7245, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914220426854, "dur":289, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1747914220427144, "dur":243, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914220427399, "dur":149, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220427548, "dur":193, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914220427744, "dur":8441, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914220436244, "dur":102095, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220436187, "dur":102154, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220538433, "dur":2105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220540704, "dur":55207, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220540545, "dur":55369, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220595959, "dur":1701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220597715, "dur":88361, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220597667, "dur":88412, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220686095, "dur":173, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914220686280, "dur":2622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220688959, "dur":269625, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220688908, "dur":269679, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220958675, "dur":2776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220961505, "dur":59523, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914220961457, "dur":59575, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221021047, "dur":94, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914221021155, "dur":2062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221023274, "dur":111805, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221023225, "dur":111858, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221135127, "dur":1993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221137178, "dur":125748, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221137127, "dur":125802, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221262970, "dur":1577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221264603, "dur":88757, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221264554, "dur":88809, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221353376, "dur":164, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914221355448, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914221353549, "dur":2012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221355849, "dur":54374, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221355568, "dur":54658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221410239, "dur":82, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914221410330, "dur":2062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221412568, "dur":75801, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221412399, "dur":75982, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221488422, "dur":4134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221492613, "dur":61337, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221492563, "dur":61390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221553967, "dur":78, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1747914221554055, "dur":1862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1747914221555922, "dur":92319, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1747914220412693, "dur":2299, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1747914220414998, "dur":1704, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1747914220416703, "dur":1643, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1747914220418347, "dur":1526, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1747914220419874, "dur":6941, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1747914220426838, "dur":136, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":11, "ts":1747914220426976, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1747914220427196, "dur":127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":11, "ts":1747914220427324, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1747914220427470, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914220427546, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1747914220427661, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1747914220427794, "dur":8464, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1747914220436420, "dur":566996, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914220436260, "dur":567159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221003491, "dur":5510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221009062, "dur":85066, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221009008, "dur":85123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221094182, "dur":1906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221096147, "dur":128996, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221096095, "dur":129051, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221225213, "dur":1570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221226846, "dur":106634, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221226791, "dur":106693, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221333518, "dur":1402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221335097, "dur":147264, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221334928, "dur":147436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221482408, "dur":1849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221484312, "dur":80149, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221484264, "dur":80200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221564507, "dur":1449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1747914221565961, "dur":82247, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1747914220412742, "dur":2272, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1747914220415015, "dur":1767, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1747914220416782, "dur":1490, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1747914220418272, "dur":1542, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1747914220419815, "dur":6988, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1747914220426820, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":12, "ts":1747914220426907, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1747914220427032, "dur":1285, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1747914220428318, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1747914220428412, "dur":7776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1747914220436298, "dur":63022, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220436190, "dur":63134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220499476, "dur":1941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220501467, "dur":127065, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220501421, "dur":127113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220628613, "dur":1671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220630334, "dur":61120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220630288, "dur":61169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220691500, "dur":1671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220693239, "dur":214657, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220693178, "dur":214721, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220907946, "dur":1817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220909820, "dur":144608, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914220909770, "dur":144662, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221054474, "dur":2060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221056592, "dur":63529, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221056541, "dur":63584, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221120138, "dur":82, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1747914221123441, "dur":106, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1747914221120231, "dur":3369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221124080, "dur":96498, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221123606, "dur":96976, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221220627, "dur":1855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221222676, "dur":108663, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221222488, "dur":108854, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221331382, "dur":1617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221333202, "dur":87455, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221333007, "dur":87652, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221420695, "dur":1731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221422482, "dur":129699, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221422432, "dur":129774, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221554223, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1747914221552249, "dur":2058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/gzert/OneDrive//Unity/KRbuild/KrMagazine_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1747914221554308, "dur":93845, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747914221654798, "dur":1293, "ph":"X", "name": "ProfilerWriteOutput" }
+,
